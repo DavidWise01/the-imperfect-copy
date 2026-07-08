@@ -4,6 +4,6 @@ slug  : the-imperfect-copy
 seal  : 74d3607bf6b01217a97f72d404ee9466e4cd28ea25cfa0ba512ece190fc56558
 prev  : 08d12e225ee4fc23d8067b6ec20d1d2d4f949c2acc1c37ea7f258dd87da41693
 link  : ea06773b5157c212c365d53b4cd13a42933272f8d72d0f3a83941efa1d98d0b1
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
